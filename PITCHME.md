@@ -138,16 +138,6 @@
     <td align="center">01.11.20</td>
     <td>Модуль collections (2ч)</td>
  </tr>
-
-+++
-
-<table border="1" cellpadding="4" cellspacing="0">
- <tr>
-    <th align="center">Неделя</th>
-    <th align="center">Лекция</th>
-    <th align="center">Дата</th>
-    <th align="center">Тема (длительность лекции)</th>
- </tr>
  <tr>
     <td rowspan="2" align="center">10</td>
     <td align="center">17</td>
