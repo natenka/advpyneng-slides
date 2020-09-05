@@ -30,12 +30,7 @@
     <td align="center">19.09.20</td>
     <td>Создание интерфейса CLI с click (3ч)</td>
  </tr>
- <tr>
-    <td rowspan="2" align="center">4</td>
-    <td align="center">5</td>
-    <td align="center">26.09.20</td>
-    <td>Основы pytest (2ч)</td>
- </tr>
+
 
 +++
 
@@ -46,19 +41,25 @@
     <th align="center">Дата</th>
     <th align="center">Тема (длительность лекции)</th>
  </tr>
+ <tr>
+    <td rowspan="2" align="center">4</td>
+    <td align="center">5</td>
+    <td align="center">26.09.20</td>
+    <td>Основы pytest (2ч)</td>
+ </tr>
   <tr>
     <td align="center">6</td>
     <td align="center">27.09.20</td>
     <td>Тестирование кода и оборудования с помощью pytest (2ч)</td>
  </tr>
  <tr>
-    <td rowspan="2" align="center">5</td>
+    <td align="center">5</td>
     <td align="center">7</td>
     <td align="center">03.10.20</td>
     <td>Модуль logging (2ч)</td>
  </tr>
  
- +++
++++
 
 <table border="1" cellpadding="4" cellspacing="0">
  <tr>
@@ -67,7 +68,8 @@
     <th align="center">Дата</th>
     <th align="center">Тема (длительность лекции)</th>
  </tr>
-  <tr>
+ <tr>
+    <td align="center">5</td>
     <td align="center">8</td>
     <td align="center">04.10.20</td>
     <td>Closure. Основы декораторов (3ч)</td>
